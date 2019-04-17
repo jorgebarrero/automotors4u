@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqlProser": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "roles_test",
+    "password": "M4pr0t3l",
+    "name": "mysqlProser",
+    "user": "maprotel",
+    "connector": "mysql"
+  }
+}
