@@ -8,9 +8,9 @@
     "port": 3306,
     "url": "",
     "database": "automotors",
-    "password": "4Ut0m0t0r54U",
-    "name": "mysqlAutomotors",
-    "user": "testUser",
+    "password": "password",
+    "name": "databasename",
+    "user": "yourUser",
     "connector": "mysql"
   }
 }

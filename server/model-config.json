@@ -8,35 +8,35 @@
     ]
   },
   "User": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   },
   "AccessToken": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   },
   "ACL": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   },
   "RoleMapping": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   },
   "Role": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   },
   "userbase": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   },
   "team": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   },
   "project": {
-    "dataSource": "mysqlProser",
+    "dataSource": "mysqlAutomotors",
     "public": true
   }
 }
